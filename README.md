@@ -1,10 +1,10 @@
-# 🚀 Senior Laravel Engineer Roadmap
+# Senior Laravel Engineer Roadmap
 
 > رحلة منظمة من الصفر إلى مستوى Senior Backend Engineer بـ Laravel — مع مشاريع حقيقية وتوثيق لكل خطوة.
 
 ---
 
-## 📌 عن هذا الريبو
+## عن هذا الريبو
 
 هذا الريبو هو توثيق كامل لرحلة تعلمي كـ Backend Engineer.  
 كل توبيك بدرسه بكتب ملف `md` فيه شرح وتلخيص وأمثلة كود — وكل module بيخلص بـ mini project حقيقي.
@@ -13,19 +13,19 @@
 
 ---
 
-## 🗺️ خريطة الرحلة
+## خريطة الرحلة
 
 | Level | الاسم | المدة | الحالة |
 |-------|-------|-------|--------|
-| [🏗️ Level 1](./level-1-foundation/README.md) | Foundation — الأساسيات | 3 أشهر | 🔄 جاري |
-| [⚙️ Level 2](./level-2-core-engineering/README.md) | Core Engineering — الهندسة الأساسية | 4 أشهر | ⏳ لسه |
-| [🚀 Level 3](./level-3-laravel/README.md) | Backend Mastery — Laravel | 4 أشهر | ⏳ لسه |
-| [🏛️ Level 4](./level-4-professional/README.md) | Professional Engineering — الاحتراف | 3 أشهر | ⏳ لسه |
-| [👑 Level 5](./level-5-senior-track/README.md) | Senior Track — مسار الـ Senior | شهرين | ⏳ لسه |
+| [ Level 1](./level-1-foundation/README.md) | Foundation — الأساسيات | 3 أشهر |  جاري |
+| [ Level 2](./level-2-core-engineering/README.md) | Core Engineering — الهندسة الأساسية | 4 أشهر |  لسه |
+| [ Level 3](./level-3-laravel/README.md) | Backend Mastery — Laravel | 4 أشهر |  لسه |
+| [ Level 4](./level-4-professional/README.md) | Professional Engineering — الاحتراف | 3 أشهر |  لسه |
+| [ Level 5](./level-5-senior-track/README.md) | Senior Track — مسار الـ Senior | شهرين |  لسه |
 
 ---
 
-## 📊 إجمالي التقدم
+## إجمالي التقدم
 
 ```
 Level 1  ░░░░░░░░░░  0%
@@ -37,7 +37,7 @@ Level 5  ░░░░░░░░░░  0%
 
 ---
 
-## 🏗️ Level 1 — Foundation (الأساسيات)
+##  Level 1 — Foundation (الأساسيات)
 
 <details>
 <summary>عرض التفاصيل</summary>
@@ -60,7 +60,7 @@ Level 5  ░░░░░░░░░░  0%
 
 ---
 
-## ⚙️ Level 2 — Core Engineering
+##  Level 2 — Core Engineering
 
 <details>
 <summary>عرض التفاصيل</summary>
@@ -80,7 +80,7 @@ Level 5  ░░░░░░░░░░  0%
 
 ---
 
-## 🚀 Level 3 — Laravel
+##  Level 3 — Laravel
 
 <details>
 <summary>عرض التفاصيل</summary>
@@ -108,7 +108,7 @@ Level 5  ░░░░░░░░░░  0%
 
 ---
 
-## 🏛️ Level 4 — Professional Engineering
+##  Level 4 — Professional Engineering
 
 <details>
 <summary>عرض التفاصيل</summary>
@@ -134,7 +134,7 @@ Level 5  ░░░░░░░░░░  0%
 
 ---
 
-## 👑 Level 5 — Senior Track
+##  Level 5 — Senior Track
 
 <details>
 <summary>عرض التفاصيل</summary>
@@ -158,7 +158,7 @@ Level 5  ░░░░░░░░░░  0%
 
 ---
 
-## 🛠️ الأدوات المستخدمة في الرحلة
+##  الأدوات المستخدمة في الرحلة
 
 | Level | الأدوات |
 |-------|---------|
@@ -170,7 +170,7 @@ Level 5  ░░░░░░░░░░  0%
 
 ---
 
-## 📚 المراجع الأساسية
+##  المراجع الأساسية
 
 | الكتاب | الهدف |
 |--------|-------|
@@ -183,11 +183,11 @@ Level 5  ░░░░░░░░░░  0%
 
 ---
 
-## 📬 تواصل معي
+##  تواصل معي
 
-> كل توبيك بدرسه بنزل عنه بوست على LinkedIn — لو الموضوع اشتغل معاك، يسعدني تتواصل!
+> كل توبيك بدرسه بنزل عنه بوست على LinkedIn — لو الموضوع افادك ، يسعدني تتواصل!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/ahmed-saad-asm3)
 
 ---
 
