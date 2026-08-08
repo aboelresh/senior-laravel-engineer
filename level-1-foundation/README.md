@@ -17,7 +17,7 @@ Level 1 هو الأساس اللي كل حاجة تانية هتتبني علي�
 
 | Phase | الاسم | الحالة |
 |-------|-------|--------|
-| [Phase 1.1](./phase-1-1-computer-fundamentals/README.md) | Computer Fundamentals | لسه |
+| [Phase 1.1](./phase-1-1-computer-fundamentals/README.md) | Computer Fundamentals | تم |
 | [Phase 1.2](./phase-1-2-programming-logic/README.md) | Programming Logic & Problem Solving | لسه |
 | [Phase 1.3](./phase-1-3-oop/README.md) | Object-Oriented Programming | لسه |
 | [Phase 1.4](./phase-1-4-git-github/README.md) | Git & GitHub | لسه |
@@ -27,7 +27,7 @@ Level 1 هو الأساس اللي كل حاجة تانية هتتبني علي�
 ## Todo List
 
 ### Phase 1.1 — Computer Fundamentals
-- [ ] Module 1.1.1 — How Computers Work
+- [✔️] Module 1.1.1 — How Computers Work
 - [ ] Module 1.1.2 — Linux & CLI
 
 ### Phase 1.2 — Programming Logic

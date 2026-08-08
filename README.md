@@ -28,7 +28,7 @@
 ## إجمالي التقدم
 
 ```
-Level 1  ░░░░░░░░░░  0%
+Level 1  █░░░░░░░░░  10%
 Level 2  ░░░░░░░░░░  0%
 Level 3  ░░░░░░░░░░  0%
 Level 4  ░░░░░░░░░░  0%
@@ -43,7 +43,7 @@ Level 5  ░░░░░░░░░░  0%
 <summary>عرض التفاصيل</summary>
 
 ### Phase 1.1 — Computer Fundamentals
-- [ ] Module 1.1.1 — How Computers Work
+- [✔️] Module 1.1.1 — How Computers Work
 - [ ] Module 1.1.2 — Linux & CLI
 
 ### Phase 1.2 — Programming Logic

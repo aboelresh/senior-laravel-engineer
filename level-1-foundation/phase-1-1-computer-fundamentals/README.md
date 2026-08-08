@@ -16,7 +16,7 @@
 
 | Module | الاسم | الحالة |
 |--------|-------|--------|
-| [Module 1.1.1](./module-1-1-1-how-computers-work/README.md) | How Computers Work | لسه |
+| [Module 1.1.1](./module-1-1-1-how-computers-work/README.md) | How Computers Work | تم |
 | [Module 1.1.2](./module-1-1-2-linux-cli/README.md) | Linux & CLI | لسه |
 
 ---
@@ -24,12 +24,12 @@
 ## Todo List
 
 ### Module 1.1.1 — How Computers Work
-- [ ] Lesson 1 — What is a Computer? Hardware vs Software
-- [ ] Lesson 2 — How CPU Works — Fetch, Decode, Execute
-- [ ] Lesson 3 — Memory — RAM, ROM, Storage, Cache
-- [ ] Lesson 4 — How Data is Stored — Binary, Bits, Bytes
-- [ ] Lesson 5 — How Programs Run — Compilation vs Interpretation
-- [ ] Lesson 6 — Operating Systems — What They Do and Why
+- [✔️] Lesson 1 — What is a Computer? Hardware vs Software
+- [✔️] Lesson 2 — How CPU Works — Fetch, Decode, Execute
+- [✔️] Lesson 3 — Memory — RAM, ROM, Storage, Cache
+- [✔️] Lesson 4 — How Data is Stored — Binary, Bits, Bytes
+- [✔️] Lesson 5 — How Programs Run — Compilation vs Interpretation
+- [✔️] Lesson 6 — Operating Systems — What They Do and Why
 
 ### Module 1.1.2 — Linux & CLI
 - [ ] Lesson 7 — Why Linux? Why Servers Use Linux

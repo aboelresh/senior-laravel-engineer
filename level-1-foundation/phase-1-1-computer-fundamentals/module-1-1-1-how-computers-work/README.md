@@ -7,12 +7,12 @@
 
 ## Todo List
 
-- [ ] Lesson 1 — [What is a Computer? Hardware vs Software](./01-hardware-vs-software.md)
-- [ ] Lesson 2 — [How CPU Works — Fetch, Decode, Execute](./02-how-cpu-works.md)
-- [ ] Lesson 3 — [Memory — RAM, ROM, Storage, Cache](./03-memory.md)
-- [ ] Lesson 4 — [How Data is Stored — Binary, Bits, Bytes](./04-binary-data.md)
-- [ ] Lesson 5 — [How Programs Run — Compilation vs Interpretation](./05-compilation-vs-interpretation.md)
-- [ ] Lesson 6 — [Operating Systems — What They Do and Why](./06-operating-systems.md)
+- [✔️] Lesson 1 — [What is a Computer? Hardware vs Software](./01-hardware-vs-software.md)
+- [✔️] Lesson 2 — [How CPU Works — Fetch, Decode, Execute](./02-how-cpu-works.md)
+- [✔️] Lesson 3 — [Memory — RAM, ROM, Storage, Cache](./03-memory.md)
+- [✔️] Lesson 4 — [How Data is Stored — Binary, Bits, Bytes](./04-binary-data.md)
+- [✔️] Lesson 5 — [How Programs Run — Compilation vs Interpretation](./05-compilation-vs-interpretation.md)
+- [✔️] Lesson 6 — [Operating Systems — What They Do and Why](./06-operating-systems.md)
 
 ---
 
