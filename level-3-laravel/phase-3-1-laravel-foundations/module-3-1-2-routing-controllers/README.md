@@ -1,11 +1,11 @@
-# 🛣️ Module 3.1.2 — Routing & Controllers
+# Module 3.1.2 — Routing & Controllers
 
-> **الهدف:** إتقان الـ Routing والـ Controllers في Laravel  
-> **عدد الـ Lessons:** 7
+> الهدف: إتقان الـ Routing والـ Controllers في Laravel
+> عدد الـ Lessons: 7
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 114 — [Routing — How Laravel Handles URLs](./114-routing.md)
 - [ ] Lesson 115 — [Route Parameters, Named Routes, Route Groups](./115-route-params.md)
@@ -17,12 +17,12 @@
 
 ---
 
-## 🏆 Mini Project 3.1
+## Mini Project 3.1
 
-**بناء API كامل لنظام إدارة مهام (Task Management)** بـ Laravel.
+بناء API كامل لنظام إدارة مهام (Task Management) بـ Laravel.
 
 - [ ] Mini Project مكتمل
 
 ---
 
-[⬅️ العودة لـ Phase 3.1](../README.md) | [🏠 الرئيسية](../../../README.md)
+[العودة لـ Phase 3.1](../README.md) | [الرئيسية](../../../README.md)

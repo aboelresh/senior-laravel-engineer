@@ -1,11 +1,11 @@
-# 🐧 Module 1.1.2 — Linux & CLI (نظام لينكس وسطر الأوامر)
+# Module 1.1.2 — Linux & CLI (نظام لينكس وسطر الأوامر)
 
-> **الهدف:** التعامل مع Linux بثقة — لأن كل سيرفر في الدنيا بيشتغل بيه  
-> **عدد الـ Lessons:** 10
+> الهدف: التعامل مع Linux بثقة — لأن كل سيرفر في الدنيا بيشتغل بيه
+> عدد الـ Lessons: 10
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 7 — [Why Linux? Why Servers Use Linux](./07-why-linux.md)
 - [ ] Lesson 8 — [Linux Filesystem — Everything is a File](./08-linux-filesystem.md)
@@ -20,27 +20,21 @@
 
 ---
 
-## 🏆 Mini Project 1.1
+## Mini Project 1.1
 
-**بناء سكريبت Linux** يؤتمت إنشاء هيكل مجلدات مشروع برمجي كامل.
+بناء سكريبت Linux يؤتمت إنشاء هيكل مجلدات مشروع برمجي كامل.
 
 - [ ] Mini Project مكتمل
 - [ ] كود الـ Script: `mini-project/setup-project.sh`
 
 ---
 
-## 📝 ملاحظات عامة
-
-> *هتتملأ مع التقدم في الـ Module*
-
----
-
-## 🔗 روابط مفيدة
+## روابط مفيدة
 
 - [The Linux Command Line — free book](https://linuxcommand.org/tlcl.php)
-- [explainshell.com — اشرح أي command](https://explainshell.com/)
-- [OverTheWire: Bandit — تعلم Linux بـ games](https://overthewire.org/wargames/bandit/)
+- [explainshell.com](https://explainshell.com/)
+- [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)
 
 ---
 
-[⬅️ العودة لـ Phase 1.1](../README.md) | [🏠 الرئيسية](../../../README.md)
+[العودة لـ Phase 1.1](../README.md) | [الرئيسية](../../../README.md)

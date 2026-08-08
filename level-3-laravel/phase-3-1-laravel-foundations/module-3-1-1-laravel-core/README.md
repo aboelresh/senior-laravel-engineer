@@ -1,11 +1,11 @@
-# ❤️ Module 3.1.1 — Laravel Core
+# Module 3.1.1 — Laravel Core
 
-> **الهدف:** فهم قلب Laravel — Service Container, Providers, Facades, Lifecycle  
-> **عدد الـ Lessons:** 9
+> الهدف: فهم قلب Laravel — Service Container, Providers, Facades, Lifecycle
+> عدد الـ Lessons: 9
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 105 — [What is Laravel? Why It Dominates PHP](./105-what-is-laravel.md)
 - [ ] Lesson 106 — [MVC — The Big Picture](./106-mvc.md)
@@ -19,4 +19,4 @@
 
 ---
 
-[⬅️ العودة لـ Phase 3.1](../README.md) | [🏠 الرئيسية](../../../README.md)
+[العودة لـ Phase 3.1](../README.md) | [الرئيسية](../../../README.md)

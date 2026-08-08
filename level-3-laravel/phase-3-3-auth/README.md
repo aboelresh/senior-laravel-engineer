@@ -1,19 +1,19 @@
-# 📦 Phase 3.3 — Authentication & Authorization
+# Phase 3.3 — Authentication & Authorization
 
-> **الهدف:** بناء نظام Auth احترافي — JWT, Sanctum, Policies, Roles  
-> **المدة:** أسبوعان
+> الهدف: بناء نظام Auth احترافي — JWT, Sanctum, Policies, Roles
+> المدة: أسبوعان
 
 ---
 
-## 📚 Modules
+## Modules
 
 | Module | الاسم | الحالة |
 |--------|-------|--------|
-| [Module 3.3.1](./module-3-3-1-auth-laravel/README.md) | Auth in Laravel | ⏳ لسه |
+| [Module 3.3.1](./module-3-3-1-auth-laravel/README.md) | Auth in Laravel | لسه |
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 135 — Authentication vs Authorization
 - [ ] Lesson 136 — Laravel Sanctum — Token-based API Auth
@@ -25,12 +25,12 @@
 
 ---
 
-## 🏆 Mini Project 3.3
+## Mini Project 3.3
 
-**بناء نظام Auth كامل** لـ Multi-role Application.
+بناء نظام Auth كامل لـ Multi-role Application.
 
 - [ ] Mini Project مكتمل
 
 ---
 
-[⬅️ العودة لـ Level 3](../README.md) | [🏠 الرئيسية](../../README.md)
+[العودة لـ Level 3](../README.md) | [الرئيسية](../../README.md)

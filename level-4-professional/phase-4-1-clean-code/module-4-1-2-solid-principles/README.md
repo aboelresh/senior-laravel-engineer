@@ -1,11 +1,11 @@
-# 🏗️ Module 4.1.2 — SOLID Principles
+# Module 4.1.2 — SOLID Principles
 
-> **الهدف:** تطبيق مبادئ SOLID بشكل عملي في PHP وLaravel  
-> **عدد الـ Lessons:** 5
+> الهدف: تطبيق مبادئ SOLID بشكل عملي في PHP وLaravel
+> عدد الـ Lessons: 5
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 174 — [S — Single Responsibility Principle](./174-srp.md)
 - [ ] Lesson 175 — [O — Open/Closed Principle](./175-ocp.md)
@@ -15,4 +15,4 @@
 
 ---
 
-[⬅️ العودة لـ Phase 4.1](../README.md) | [🏠 الرئيسية](../../../README.md)
+[العودة لـ Phase 4.1](../README.md) | [الرئيسية](../../../README.md)

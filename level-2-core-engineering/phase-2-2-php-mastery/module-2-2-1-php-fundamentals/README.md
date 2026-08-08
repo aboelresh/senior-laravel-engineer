@@ -1,11 +1,11 @@
-# 🐘 Module 2.2.1 — PHP Fundamentals
+# Module 2.2.1 — PHP Fundamentals
 
-> **الهدف:** إتقان PHP من الأساس — مع فهم الـ Internals مش بس الـ Syntax  
-> **عدد الـ Lessons:** 15
+> الهدف: إتقان PHP من الأساس — مع فهم الـ Internals مش بس الـ Syntax
+> عدد الـ Lessons: 15
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 66 — [What is PHP? History & Why It Still Matters](./66-what-is-php.md)
 - [ ] Lesson 67 — [PHP Internals — How PHP Executes Code](./67-php-internals.md)
@@ -25,4 +25,4 @@
 
 ---
 
-[⬅️ العودة لـ Phase 2.2](../README.md) | [🏠 الرئيسية](../../../README.md)
+[العودة لـ Phase 2.2](../README.md) | [الرئيسية](../../../README.md)

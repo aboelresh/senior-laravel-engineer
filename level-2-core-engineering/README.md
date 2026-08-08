@@ -1,21 +1,21 @@
-# ⚙️ Level 2 — Core Engineering (الهندسة الأساسية)
+# Level 2 — Core Engineering (الهندسة الأساسية)
 
-> **الهدف:** إتقان PHP وأسس الـ Backend الحقيقي  
-> **المدة:** 4 أشهر
+> الهدف: إتقان PHP وأسس الـ Backend الحقيقي
+> المدة: 4 أشهر
 
 ---
 
-## 🗺️ Phases
+## Phases
 
 | Phase | الاسم | الحالة |
 |-------|-------|--------|
-| [Phase 2.1](./phase-2-1-networking/README.md) | Networking & Web Fundamentals | ⏳ لسه |
-| [Phase 2.2](./phase-2-2-php-mastery/README.md) | PHP Mastery | ⏳ لسه |
-| [Phase 2.3](./phase-2-3-databases/README.md) | Databases | ⏳ لسه |
+| [Phase 2.1](./phase-2-1-networking/README.md) | Networking & Web Fundamentals | لسه |
+| [Phase 2.2](./phase-2-2-php-mastery/README.md) | PHP Mastery | لسه |
+| [Phase 2.3](./phase-2-3-databases/README.md) | Databases | لسه |
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 ### Phase 2.1 — Networking
 - [ ] Module 2.1.1 — How the Internet Works
@@ -30,11 +30,11 @@
 
 ---
 
-## 🏆 Enterprise Project
+## Enterprise Project
 
-**بناء REST API كامل بـ PHP خالص** (بدون Framework) يتضمن:
-Authentication System, CRUD Operations, Database Relations, Input Validation, Security, HTTP Status Codes, JSON Responses, Git Flow
+بناء REST API كامل بـ PHP خالص (بدون Framework) يتضمن:
+Authentication System, CRUD Operations, Database Relations, Input Validation, Security, HTTP Status Codes, JSON Responses, Git Flow.
 
 ---
 
-[⬅️ العودة للرئيسية](../README.md)
+[العودة للرئيسية](../README.md)

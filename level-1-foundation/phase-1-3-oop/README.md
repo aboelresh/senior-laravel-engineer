@@ -1,21 +1,20 @@
-# 📦 Phase 1.3 — Object-Oriented Programming (البرمجة الكائنية)
+# Phase 1.3 — Object-Oriented Programming (البرمجة الكائنية)
 
-> **الهدف:** إتقان OOP بشكل عميق — مش بس syntax  
-> **المدة:** 3 أسابيع
+> الهدف: إتقان OOP بشكل عميق — مش بس syntax
+> المدة: 3 أسابيع
 
 ---
 
-## 📚 Modules
+## Modules
 
 | Module | الاسم | الحالة |
 |--------|-------|--------|
-| [Module 1.3.1](./module-1-3-1-oop-fundamentals/README.md) | OOP Fundamentals | ⏳ لسه |
+| [Module 1.3.1](./module-1-3-1-oop-fundamentals/README.md) | OOP Fundamentals | لسه |
 
 ---
 
-## ✅ Todo List
+## Todo List
 
-### Module 1.3.1 — OOP Fundamentals
 - [ ] Lesson 34 — What is OOP? Why Did It Exist?
 - [ ] Lesson 35 — Classes & Objects
 - [ ] Lesson 36 — Properties & Methods
@@ -25,17 +24,17 @@
 - [ ] Lesson 40 — Polymorphism — Power of OOP
 - [ ] Lesson 41 — Abstraction — Interfaces & Abstract Classes
 - [ ] Lesson 42 — Static Methods & Properties
-- [ ] Lesson 43 — Traits (in PHP) — Horizontal Code Sharing
+- [ ] Lesson 43 — Traits in PHP — Horizontal Code Sharing
 - [ ] Lesson 44 — Namespaces — Organizing Code
 
 ---
 
-## 🏆 Mini Project 1.3
+## Mini Project 1.3
 
-**بناء نظام إدارة مكتبة** كاملة باستخدام OOP بحت (بدون أي Framework).
+بناء نظام إدارة مكتبة كاملة باستخدام OOP بحت (بدون أي Framework).
 
 - [ ] Mini Project مكتمل
 
 ---
 
-[⬅️ العودة لـ Level 1](../README.md) | [🏠 الرئيسية](../../README.md)
+[العودة لـ Level 1](../README.md) | [الرئيسية](../../README.md)

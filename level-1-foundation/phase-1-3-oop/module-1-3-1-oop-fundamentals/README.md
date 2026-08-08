@@ -1,11 +1,11 @@
-# 🧱 Module 1.3.1 — OOP Fundamentals
+# Module 1.3.1 — OOP Fundamentals
 
-> **الهدف:** فهم البرمجة الكائنية من جذورها مع PHP  
-> **عدد الـ Lessons:** 11
+> الهدف: فهم البرمجة الكائنية من جذورها مع PHP
+> عدد الـ Lessons: 11
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 34 — [What is OOP? Why Did It Exist?](./34-what-is-oop.md)
 - [ ] Lesson 35 — [Classes & Objects](./35-classes-objects.md)
@@ -21,12 +21,12 @@
 
 ---
 
-## 🏆 Mini Project 1.3
+## Mini Project 1.3
 
-**بناء نظام إدارة مكتبة** كاملة باستخدام OOP بحت (بدون أي Framework).
+بناء نظام إدارة مكتبة كاملة باستخدام OOP بحت (بدون أي Framework).
 
 - [ ] Mini Project مكتمل
 
 ---
 
-[⬅️ العودة لـ Phase 1.3](../README.md) | [🏠 الرئيسية](../../../README.md)
+[العودة لـ Phase 1.3](../README.md) | [الرئيسية](../../../README.md)

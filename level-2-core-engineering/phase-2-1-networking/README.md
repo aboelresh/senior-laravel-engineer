@@ -1,19 +1,19 @@
-# 📦 Phase 2.1 — Networking & Web Fundamentals
+# Phase 2.1 — Networking & Web Fundamentals
 
-> **الهدف:** فهم كيف يعمل الإنترنت من الداخل — الأساس لكل Backend  
-> **المدة:** أسبوعان
+> الهدف: فهم كيف يعمل الإنترنت من الداخل — الأساس لكل Backend
+> المدة: أسبوعان
 
 ---
 
-## 📚 Modules
+## Modules
 
 | Module | الاسم | الحالة |
 |--------|-------|--------|
-| [Module 2.1.1](./module-2-1-1-how-internet-works/README.md) | How the Internet Works | ⏳ لسه |
+| [Module 2.1.1](./module-2-1-1-how-internet-works/README.md) | How the Internet Works | لسه |
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 56 — What Happens When You Type a URL?
 - [ ] Lesson 57 — OSI Model — 7 Layers Explained
@@ -28,4 +28,4 @@
 
 ---
 
-[⬅️ العودة لـ Level 2](../README.md) | [🏠 الرئيسية](../../README.md)
+[العودة لـ Level 2](../README.md) | [الرئيسية](../../README.md)

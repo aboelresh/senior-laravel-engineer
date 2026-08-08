@@ -1,27 +1,27 @@
-# 📦 Phase 1.1 — Computer Fundamentals (أساسيات الحاسوب)
+# Phase 1.1 — Computer Fundamentals (أساسيات الحاسوب)
 
-> **الهدف:** فهم كيف يعمل الكمبيوتر من الداخل — قبل ما تكتب أي سطر كود  
-> **المدة:** أسبوعان
+> الهدف: فهم كيف يعمل الكمبيوتر من الداخل — قبل ما تكتب أي سطر كود
+> المدة: أسبوعان
 
 ---
 
-## 🧠 ليه هذه الـ Phase مهمة؟
+## ليه هذه الـ Phase مهمة؟
 
-كتير من المبرمجين بيكتبوا كود من غير ما يعرفوا إيه اللي بيحصل تحت الغطاء.  
+كتير من المبرمجين بيكتبوا كود من غير ما يعرفوا إيه اللي بيحصل تحت الغطاء.
 لما تعرف إزاي الـ CPU بتنفذ الكود، وإزاي الـ Memory بتتعامل مع البيانات — هتكتب كود أذكى وأسرع.
 
 ---
 
-## 📚 Modules
+## Modules
 
 | Module | الاسم | الحالة |
 |--------|-------|--------|
-| [Module 1.1.1](./module-1-1-1-how-computers-work/README.md) | How Computers Work | ⏳ لسه |
-| [Module 1.1.2](./module-1-1-2-linux-cli/README.md) | Linux & CLI | ⏳ لسه |
+| [Module 1.1.1](./module-1-1-1-how-computers-work/README.md) | How Computers Work | لسه |
+| [Module 1.1.2](./module-1-1-2-linux-cli/README.md) | Linux & CLI | لسه |
 
 ---
 
-## ✅ Todo List — Topics
+## Todo List
 
 ### Module 1.1.1 — How Computers Work
 - [ ] Lesson 1 — What is a Computer? Hardware vs Software
@@ -45,12 +45,12 @@
 
 ---
 
-## 🏆 Mini Project 1.1
+## Mini Project 1.1
 
-**بناء سكريبت Linux** يؤتمت إنشاء هيكل مجلدات مشروع برمجي كامل.
+بناء سكريبت Linux يؤتمت إنشاء هيكل مجلدات مشروع برمجي كامل.
 
 - [ ] Mini Project مكتمل
 
 ---
 
-[⬅️ العودة لـ Level 1](../README.md) | [🏠 الرئيسية](../../README.md)
+[العودة لـ Level 1](../README.md) | [الرئيسية](../../README.md)

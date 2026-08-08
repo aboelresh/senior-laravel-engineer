@@ -1,20 +1,20 @@
-# 📦 Phase 2.3 — Databases (قواعد البيانات)
+# Phase 2.3 — Databases (قواعد البيانات)
 
-> **الهدف:** إتقان قواعد البيانات العلائقية من التصميم للـ Optimization  
-> **المدة:** شهر ونصف
+> الهدف: إتقان قواعد البيانات العلائقية من التصميم للـ Optimization
+> المدة: شهر ونصف
 
 ---
 
-## 📚 Modules
+## Modules
 
 | Module | الاسم | الحالة |
 |--------|-------|--------|
-| [Module 2.3.1](./module-2-3-1-relational-databases/README.md) | Relational Databases | ⏳ لسه |
-| [Module 2.3.2](./module-2-3-2-advanced-database/README.md) | Advanced Database Concepts | ⏳ لسه |
+| [Module 2.3.1](./module-2-3-1-relational-databases/README.md) | Relational Databases | لسه |
+| [Module 2.3.2](./module-2-3-2-advanced-database/README.md) | Advanced Database Concepts | لسه |
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 ### Module 2.3.1 — Relational Databases
 - [ ] Lesson 87 — What is a Database? Why Does It Exist?
@@ -40,12 +40,12 @@
 
 ---
 
-## 🏆 Mini Project 2.3
+## Mini Project 2.3
 
-**تصميم قاعدة بيانات لنظام تجارة إلكترونية** كامل مع ERD وتطبيق كل الاستعلامات المعقدة.
+تصميم قاعدة بيانات لنظام تجارة إلكترونية كامل مع ERD وتطبيق كل الاستعلامات المعقدة.
 
 - [ ] Mini Project مكتمل
 
 ---
 
-[⬅️ العودة لـ Level 2](../README.md) | [🏠 الرئيسية](../../README.md)
+[العودة لـ Level 2](../README.md) | [الرئيسية](../../README.md)

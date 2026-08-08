@@ -1,11 +1,11 @@
-# 🧠 Module 1.2.1 — Programming Logic (المنطق البرمجي)
+# Module 1.2.1 — Programming Logic (المنطق البرمجي)
 
-> **الهدف:** تعلم التفكير الخوارزمي وأساسيات حل المشكلات  
-> **عدد الـ Lessons:** 9
+> الهدف: تعلم التفكير الخوارزمي وأساسيات حل المشكلات
+> عدد الـ Lessons: 9
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 17 — [What is an Algorithm?](./17-what-is-algorithm.md)
 - [ ] Lesson 18 — [Variables, Data Types, Memory](./18-variables-types.md)
@@ -19,4 +19,4 @@
 
 ---
 
-[⬅️ العودة لـ Phase 1.2](../README.md) | [🏠 الرئيسية](../../../README.md)
+[العودة لـ Phase 1.2](../README.md) | [الرئيسية](../../../README.md)

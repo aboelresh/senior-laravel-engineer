@@ -1,30 +1,30 @@
-# 🏗️ Level 1 — Foundation (الأساسيات)
+# Level 1 — Foundation (الأساسيات)
 
-> **الهدف:** بناء العقل البرمجي الصحيح قبل لمس أي Framework  
-> **المدة:** 3 أشهر
+> الهدف: بناء العقل البرمجي الصحيح قبل لمس أي Framework
+> المدة: 3 أشهر
 
 ---
 
-## 📋 نظرة عامة
+## نظرة عامة
 
-Level 1 هو الأساس اللي كل حاجة تانية هتتبني عليه.  
-هنا مش بنتعلم Laravel أو PHP — هنا بنبني **طريقة التفكير** الصح.  
+Level 1 هو الأساس اللي كل حاجة تانية هتتبني عليه.
+هنا مش بنتعلم Laravel أو PHP — هنا بنبني طريقة التفكير الصح.
 مهندس من غير أساس = بناية من غير أرضية.
 
 ---
 
-## 🗺️ Phases في هذا الـ Level
+## Phases في هذا الـ Level
 
 | Phase | الاسم | الحالة |
 |-------|-------|--------|
-| [Phase 1.1](./phase-1-1-computer-fundamentals/README.md) | Computer Fundamentals | ⏳ لسه |
-| [Phase 1.2](./phase-1-2-programming-logic/README.md) | Programming Logic & Problem Solving | ⏳ لسه |
-| [Phase 1.3](./phase-1-3-oop/README.md) | Object-Oriented Programming | ⏳ لسه |
-| [Phase 1.4](./phase-1-4-git-github/README.md) | Git & GitHub | ⏳ لسه |
+| [Phase 1.1](./phase-1-1-computer-fundamentals/README.md) | Computer Fundamentals | لسه |
+| [Phase 1.2](./phase-1-2-programming-logic/README.md) | Programming Logic & Problem Solving | لسه |
+| [Phase 1.3](./phase-1-3-oop/README.md) | Object-Oriented Programming | لسه |
+| [Phase 1.4](./phase-1-4-git-github/README.md) | Git & GitHub | لسه |
 
 ---
 
-## ✅ Todo List — Modules
+## Todo List
 
 ### Phase 1.1 — Computer Fundamentals
 - [ ] Module 1.1.1 — How Computers Work
@@ -42,9 +42,9 @@ Level 1 هو الأساس اللي كل حاجة تانية هتتبني علي�
 
 ---
 
-## 🏆 Enterprise Project
+## Enterprise Project
 
-**بناء نظام إدارة طلاب (Student Management System)** بـ PHP خالص باستخدام:
+بناء نظام إدارة طلاب (Student Management System) بـ PHP خالص باستخدام:
 - OOP كاملة
 - File-based Storage
 - Git Flow
@@ -53,16 +53,16 @@ Level 1 هو الأساس اللي كل حاجة تانية هتتبني علي�
 
 ---
 
-## 🎯 المهارات المكتسبة بعد Level 1
+## المهارات المكتسبة بعد Level 1
 
-- ✅ فهم كيفية عمل الحاسوب من الداخل
-- ✅ التعامل مع Linux بثقة
-- ✅ كتابة كود بمنطق سليم
-- ✅ فهم هياكل البيانات الأساسية
-- ✅ التفكير الكائني (OOP)
-- ✅ إدارة المشاريع بـ Git
-- ✅ كتابة README احترافي
+- فهم كيفية عمل الحاسوب من الداخل
+- التعامل مع Linux بثقة
+- كتابة كود بمنطق سليم
+- فهم هياكل البيانات الأساسية
+- التفكير الكائني (OOP)
+- إدارة المشاريع بـ Git
+- كتابة README احترافي
 
 ---
 
-[⬅️ العودة للرئيسية](../README.md)
+[العودة للرئيسية](../README.md)

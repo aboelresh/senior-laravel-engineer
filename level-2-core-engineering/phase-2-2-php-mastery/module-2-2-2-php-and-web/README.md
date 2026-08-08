@@ -1,11 +1,11 @@
-# 🌍 Module 2.2.2 — PHP & Web
+# Module 2.2.2 — PHP & Web
 
-> **الهدف:** استخدام PHP في بيئة الويب الحقيقية مع أمان كامل  
-> **عدد الـ Lessons:** 6
+> الهدف: استخدام PHP في بيئة الويب الحقيقية مع أمان كامل
+> عدد الـ Lessons: 6
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 81 — [Superglobals — $_GET, $_POST, $_SERVER, $_SESSION](./81-superglobals.md)
 - [ ] Lesson 82 — [File Uploads — Security First](./82-file-uploads.md)
@@ -16,13 +16,13 @@
 
 ---
 
-## 🏆 Mini Project 2.2
+## Mini Project 2.2
 
-**بناء نظام تسجيل ودخول (Auth System)** كامل بـ PHP خالص بدون Framework مع:
+بناء نظام تسجيل ودخول (Auth System) كامل بـ PHP خالص بدون Framework مع:
 Sessions, Password Hashing, CSRF Protection, SQL Injection Prevention.
 
 - [ ] Mini Project مكتمل
 
 ---
 
-[⬅️ العودة لـ Phase 2.2](../README.md) | [🏠 الرئيسية](../../../README.md)
+[العودة لـ Phase 2.2](../README.md) | [الرئيسية](../../../README.md)

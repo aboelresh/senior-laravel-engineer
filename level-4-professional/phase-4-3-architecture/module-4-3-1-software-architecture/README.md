@@ -1,11 +1,11 @@
-# 🏛️ Module 4.3.1 — Software Architecture
+# Module 4.3.1 — Software Architecture
 
-> **الهدف:** التفكير في تصميم الأنظمة من منظور هندسي  
-> **عدد الـ Lessons:** 4
+> الهدف: التفكير في تصميم الأنظمة من منظور هندسي
+> عدد الـ Lessons: 4
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 190 — [Clean Architecture](./190-clean-architecture.md)
 - [ ] Lesson 191 — [Layered Architecture](./191-layered-architecture.md)
@@ -14,4 +14,4 @@
 
 ---
 
-[⬅️ العودة لـ Phase 4.3](../README.md) | [🏠 الرئيسية](../../../README.md)
+[العودة لـ Phase 4.3](../README.md) | [الرئيسية](../../../README.md)

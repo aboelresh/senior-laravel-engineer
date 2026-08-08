@@ -1,20 +1,20 @@
-# 📦 Phase 2.2 — PHP Mastery (إتقان PHP)
+# Phase 2.2 — PHP Mastery (إتقان PHP)
 
-> **الهدف:** إتقان PHP بعمق — من الأساسيات للـ Advanced features  
-> **المدة:** شهر ونصف
+> الهدف: إتقان PHP بعمق — من الأساسيات للـ Advanced features
+> المدة: شهر ونصف
 
 ---
 
-## 📚 Modules
+## Modules
 
 | Module | الاسم | الحالة |
 |--------|-------|--------|
-| [Module 2.2.1](./module-2-2-1-php-fundamentals/README.md) | PHP Fundamentals | ⏳ لسه |
-| [Module 2.2.2](./module-2-2-2-php-and-web/README.md) | PHP & Web | ⏳ لسه |
+| [Module 2.2.1](./module-2-2-1-php-fundamentals/README.md) | PHP Fundamentals | لسه |
+| [Module 2.2.2](./module-2-2-2-php-and-web/README.md) | PHP & Web | لسه |
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 ### Module 2.2.1 — PHP Fundamentals
 - [ ] Lesson 66 — What is PHP? History & Why It Still Matters
@@ -43,13 +43,13 @@
 
 ---
 
-## 🏆 Mini Project 2.2
+## Mini Project 2.2
 
-**بناء نظام تسجيل ودخول (Auth System)** كامل بـ PHP خالص بدون Framework مع:
+بناء نظام تسجيل ودخول (Auth System) كامل بـ PHP خالص بدون Framework مع:
 Sessions, Password Hashing, CSRF Protection, SQL Injection Prevention.
 
 - [ ] Mini Project مكتمل
 
 ---
 
-[⬅️ العودة لـ Level 2](../README.md) | [🏠 الرئيسية](../../README.md)
+[العودة لـ Level 2](../README.md) | [الرئيسية](../../README.md)

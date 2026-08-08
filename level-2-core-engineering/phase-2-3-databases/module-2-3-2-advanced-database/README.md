@@ -1,11 +1,11 @@
-# ⚡ Module 2.3.2 — Advanced Database Concepts
+# Module 2.3.2 — Advanced Database Concepts
 
-> **الهدف:** فهم الـ Performance والـ Caching وحل مشاكل الـ Scaling  
-> **عدد الـ Lessons:** 5
+> الهدف: فهم الـ Performance والـ Caching وحل مشاكل الـ Scaling
+> عدد الـ Lessons: 5
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 100 — [Query Optimization — EXPLAIN](./100-query-optimization.md)
 - [ ] Lesson 101 — [Database Locks](./101-database-locks.md)
@@ -15,12 +15,12 @@
 
 ---
 
-## 🏆 Mini Project 2.3
+## Mini Project 2.3
 
-**تصميم قاعدة بيانات لنظام تجارة إلكترونية** كامل مع ERD وتطبيق كل الاستعلامات المعقدة.
+تصميم قاعدة بيانات لنظام تجارة إلكترونية كامل مع ERD وتطبيق كل الاستعلامات المعقدة.
 
 - [ ] Mini Project مكتمل
 
 ---
 
-[⬅️ العودة لـ Phase 2.3](../README.md) | [🏠 الرئيسية](../../../README.md)
+[العودة لـ Phase 2.3](../README.md) | [الرئيسية](../../../README.md)

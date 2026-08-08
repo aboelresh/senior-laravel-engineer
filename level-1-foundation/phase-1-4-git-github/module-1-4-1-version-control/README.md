@@ -1,11 +1,11 @@
-# 🔀 Module 1.4.1 — Version Control (التحكم في الإصدارات)
+# Module 1.4.1 — Version Control (التحكم في الإصدارات)
 
-> **الهدف:** إتقان Git من الداخل — فهم كيف بيشتغل مش بس الأوامر  
-> **عدد الـ Lessons:** 11
+> الهدف: إتقان Git من الداخل — فهم كيف بيشتغل مش بس الأوامر
+> عدد الـ Lessons: 11
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 45 — [Why Version Control? The Problem Git Solved](./45-why-version-control.md)
 - [ ] Lesson 46 — [How Git Works Internally — Snapshots Not Diffs](./46-git-internals.md)
@@ -21,12 +21,12 @@
 
 ---
 
-## 🏆 Mini Project 1.4
+## Mini Project 1.4
 
-**إدارة مشروع كامل على GitHub** بـ Git Flow مع Pull Requests وCode Review.
+إدارة مشروع كامل على GitHub بـ Git Flow مع Pull Requests وCode Review.
 
 - [ ] Mini Project مكتمل
 
 ---
 
-[⬅️ العودة لـ Phase 1.4](../README.md) | [🏠 الرئيسية](../../../README.md)
+[العودة لـ Phase 1.4](../README.md) | [الرئيسية](../../../README.md)

@@ -1,19 +1,19 @@
-# 📦 Phase 4.3 — Architecture (الهندسة المعمارية)
+# Phase 4.3 — Architecture (الهندسة المعمارية)
 
-> **الهدف:** تصميم أنظمة قابلة للتوسع والصيانة  
-> **المدة:** أسبوعان
+> الهدف: تصميم أنظمة قابلة للتوسع والصيانة
+> المدة: أسبوعان
 
 ---
 
-## 📚 Modules
+## Modules
 
 | Module | الاسم | الحالة |
 |--------|-------|--------|
-| [Module 4.3.1](./module-4-3-1-software-architecture/README.md) | Software Architecture | ⏳ لسه |
+| [Module 4.3.1](./module-4-3-1-software-architecture/README.md) | Software Architecture | لسه |
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 190 — Clean Architecture
 - [ ] Lesson 191 — Layered Architecture
@@ -22,4 +22,4 @@
 
 ---
 
-[⬅️ العودة لـ Level 4](../README.md) | [🏠 الرئيسية](../../README.md)
+[العودة لـ Level 4](../README.md) | [الرئيسية](../../README.md)

@@ -1,11 +1,11 @@
-# 🔮 Module 3.2.1 — Eloquent ORM
+# Module 3.2.1 — Eloquent ORM
 
-> **الهدف:** إتقان Eloquent بكل تفاصيله — Relationships, Scopes, Observers  
-> **عدد الـ Lessons:** 11
+> الهدف: إتقان Eloquent بكل تفاصيله — Relationships, Scopes, Observers
+> عدد الـ Lessons: 11
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 121 — [What is an ORM? Why Eloquent?](./121-what-is-orm.md)
 - [ ] Lesson 122 — [Eloquent Models — Convention over Configuration](./122-eloquent-models.md)
@@ -21,4 +21,4 @@
 
 ---
 
-[⬅️ العودة لـ Phase 3.2](../README.md) | [🏠 الرئيسية](../../../README.md)
+[العودة لـ Phase 3.2](../README.md) | [الرئيسية](../../../README.md)

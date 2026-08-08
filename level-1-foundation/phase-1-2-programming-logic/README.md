@@ -1,20 +1,20 @@
-# 📦 Phase 1.2 — Programming Logic & Problem Solving
+# Phase 1.2 — Programming Logic & Problem Solving
 
-> **الهدف:** بناء منطق برمجي سليم وفهم هياكل البيانات  
-> **المدة:** شهر كامل
+> الهدف: بناء منطق برمجي سليم وفهم هياكل البيانات
+> المدة: شهر كامل
 
 ---
 
-## 📚 Modules
+## Modules
 
 | Module | الاسم | الحالة |
 |--------|-------|--------|
-| [Module 1.2.1](./module-1-2-1-programming-logic/README.md) | Programming Logic | ⏳ لسه |
-| [Module 1.2.2](./module-1-2-2-data-structures/README.md) | Data Structures | ⏳ لسه |
+| [Module 1.2.1](./module-1-2-1-programming-logic/README.md) | Programming Logic | لسه |
+| [Module 1.2.2](./module-1-2-2-data-structures/README.md) | Data Structures | لسه |
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 ### Module 1.2.1 — Programming Logic
 - [ ] Lesson 17 — What is an Algorithm?
@@ -39,12 +39,12 @@
 
 ---
 
-## 🏆 Mini Project 1.2
+## Mini Project 1.2
 
-**تطبيق حل المشكلات** باستخدام هياكل البيانات المختلفة مع مقارنة الأداء.
+تطبيق حل المشكلات باستخدام هياكل البيانات المختلفة مع مقارنة الأداء.
 
 - [ ] Mini Project مكتمل
 
 ---
 
-[⬅️ العودة لـ Level 1](../README.md) | [🏠 الرئيسية](../../README.md)
+[العودة لـ Level 1](../README.md) | [الرئيسية](../../README.md)

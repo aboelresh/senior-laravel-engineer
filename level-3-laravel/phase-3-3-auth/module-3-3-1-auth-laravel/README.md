@@ -1,11 +1,11 @@
-# 🔐 Module 3.3.1 — Auth in Laravel
+# Module 3.3.1 — Auth in Laravel
 
-> **الهدف:** إتقان كل جوانب المصادقة والتفويض في Laravel  
-> **عدد الـ Lessons:** 7
+> الهدف: إتقان كل جوانب المصادقة والتفويض في Laravel
+> عدد الـ Lessons: 7
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 135 — [Authentication vs Authorization](./135-auth-vs-authz.md)
 - [ ] Lesson 136 — [Laravel Sanctum — Token-based API Auth](./136-sanctum.md)
@@ -17,12 +17,12 @@
 
 ---
 
-## 🏆 Mini Project 3.3
+## Mini Project 3.3
 
-**بناء نظام Auth كامل** لـ Multi-role Application.
+بناء نظام Auth كامل لـ Multi-role Application.
 
 - [ ] Mini Project مكتمل
 
 ---
 
-[⬅️ العودة لـ Phase 3.3](../README.md) | [🏠 الرئيسية](../../../README.md)
+[العودة لـ Phase 3.3](../README.md) | [الرئيسية](../../../README.md)

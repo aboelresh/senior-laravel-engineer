@@ -1,11 +1,11 @@
-# 🌐 Module 2.1.1 — How the Internet Works
+# Module 2.1.1 — How the Internet Works
 
-> **الهدف:** فهم رحلة الـ Request من المتصفح للسيرفر ورجوعه  
-> **عدد الـ Lessons:** 10
+> الهدف: فهم رحلة الـ Request من المتصفح للسيرفر ورجوعه
+> عدد الـ Lessons: 10
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 56 — [What Happens When You Type a URL?](./56-what-happens-url.md)
 - [ ] Lesson 57 — [OSI Model — 7 Layers Explained](./57-osi-model.md)
@@ -20,4 +20,4 @@
 
 ---
 
-[⬅️ العودة لـ Phase 2.1](../README.md) | [🏠 الرئيسية](../../../README.md)
+[العودة لـ Phase 2.1](../README.md) | [الرئيسية](../../../README.md)

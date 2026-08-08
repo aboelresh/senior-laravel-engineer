@@ -1,11 +1,11 @@
-# 🗄️ Module 2.3.1 — Relational Databases
+# Module 2.3.1 — Relational Databases
 
-> **الهدف:** إتقان SQL وتصميم قواعد البيانات بشكل احترافي  
-> **عدد الـ Lessons:** 13
+> الهدف: إتقان SQL وتصميم قواعد البيانات بشكل احترافي
+> عدد الـ Lessons: 13
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 87 — [What is a Database? Why Does It Exist?](./87-what-is-database.md)
 - [ ] Lesson 88 — [Relational Model](./88-relational-model.md)
@@ -23,4 +23,4 @@
 
 ---
 
-[⬅️ العودة لـ Phase 2.3](../README.md) | [🏠 الرئيسية](../../../README.md)
+[العودة لـ Phase 2.3](../README.md) | [الرئيسية](../../../README.md)

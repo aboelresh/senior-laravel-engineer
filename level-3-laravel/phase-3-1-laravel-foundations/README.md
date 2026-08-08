@@ -1,20 +1,20 @@
-# 📦 Phase 3.1 — Laravel Foundations (أساسيات Laravel)
+# Phase 3.1 — Laravel Foundations (أساسيات Laravel)
 
-> **الهدف:** فهم كيف يعمل Laravel من الداخل — Service Container, Lifecycle, Routing  
-> **المدة:** شهر
+> الهدف: فهم كيف يعمل Laravel من الداخل — Service Container, Lifecycle, Routing
+> المدة: شهر
 
 ---
 
-## 📚 Modules
+## Modules
 
 | Module | الاسم | الحالة |
 |--------|-------|--------|
-| [Module 3.1.1](./module-3-1-1-laravel-core/README.md) | Laravel Core | ⏳ لسه |
-| [Module 3.1.2](./module-3-1-2-routing-controllers/README.md) | Routing & Controllers | ⏳ لسه |
+| [Module 3.1.1](./module-3-1-1-laravel-core/README.md) | Laravel Core | لسه |
+| [Module 3.1.2](./module-3-1-2-routing-controllers/README.md) | Routing & Controllers | لسه |
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 ### Module 3.1.1 — Laravel Core
 - [ ] Lesson 105 — What is Laravel? Why It Dominates PHP
@@ -38,12 +38,12 @@
 
 ---
 
-## 🏆 Mini Project 3.1
+## Mini Project 3.1
 
-**بناء API كامل لنظام إدارة مهام (Task Management)** بـ Laravel.
+بناء API كامل لنظام إدارة مهام (Task Management) بـ Laravel.
 
 - [ ] Mini Project مكتمل
 
 ---
 
-[⬅️ العودة لـ Level 3](../README.md) | [🏠 الرئيسية](../../README.md)
+[العودة لـ Level 3](../README.md) | [الرئيسية](../../README.md)

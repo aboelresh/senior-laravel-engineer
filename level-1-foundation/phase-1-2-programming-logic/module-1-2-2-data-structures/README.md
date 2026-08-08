@@ -1,11 +1,11 @@
-# 🗂️ Module 1.2.2 — Data Structures (هياكل البيانات)
+# Module 1.2.2 — Data Structures (هياكل البيانات)
 
-> **الهدف:** فهم هياكل البيانات الأساسية وإمتى تستخدم كل واحدة  
-> **عدد الـ Lessons:** 8
+> الهدف: فهم هياكل البيانات الأساسية وإمتى تستخدم كل واحدة
+> عدد الـ Lessons: 8
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 26 — [What Are Data Structures and Why Do They Exist?](./26-intro-data-structures.md)
 - [ ] Lesson 27 — [Arrays — Deep Dive](./27-arrays.md)
@@ -18,12 +18,12 @@
 
 ---
 
-## 🏆 Mini Project 1.2
+## Mini Project 1.2
 
-**تطبيق حل المشكلات** باستخدام هياكل البيانات المختلفة مع مقارنة الأداء.
+تطبيق حل المشكلات باستخدام هياكل البيانات المختلفة مع مقارنة الأداء.
 
 - [ ] Mini Project مكتمل
 
 ---
 
-[⬅️ العودة لـ Phase 1.2](../README.md) | [🏠 الرئيسية](../../../README.md)
+[العودة لـ Phase 1.2](../README.md) | [الرئيسية](../../../README.md)

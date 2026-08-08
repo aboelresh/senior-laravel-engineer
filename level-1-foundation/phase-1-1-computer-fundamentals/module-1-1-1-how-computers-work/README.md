@@ -1,11 +1,11 @@
-# 💻 Module 1.1.1 — How Computers Work (كيف يعمل الحاسوب)
+# Module 1.1.1 — How Computers Work (كيف يعمل الحاسوب)
 
-> **الهدف:** فهم الأساسيات الداخلية للحاسوب — من الـ Hardware للـ Software  
-> **عدد الـ Lessons:** 6
+> الهدف: فهم الأساسيات الداخلية للحاسوب — من الـ Hardware للـ Software
+> عدد الـ Lessons: 6
 
 ---
 
-## ✅ Todo List
+## Todo List
 
 - [ ] Lesson 1 — [What is a Computer? Hardware vs Software](./01-hardware-vs-software.md)
 - [ ] Lesson 2 — [How CPU Works — Fetch, Decode, Execute](./02-how-cpu-works.md)
@@ -16,18 +16,12 @@
 
 ---
 
-## 📝 ملاحظات عامة
-
-> *هتتملأ مع التقدم في الـ Module*
-
----
-
-## 🔗 روابط مفيدة
+## روابط مفيدة
 
 - [How does a CPU work? — Computerphile](https://www.youtube.com/watch?v=cNN_tTXABUA)
-- [Binary explained in 01 minutes — TED-Ed](https://www.youtube.com/watch?v=wgbV6DLVezo)
+- [Binary explained — TED-Ed](https://www.youtube.com/watch?v=wgbV6DLVezo)
 - [How do computers read code?](https://www.youtube.com/watch?v=QXjU9qTsYCc)
 
 ---
 
-[⬅️ العودة لـ Phase 1.1](../README.md) | [🏠 الرئيسية](../../../README.md)
+[العودة لـ Phase 1.1](../README.md) | [الرئيسية](../../../README.md)
