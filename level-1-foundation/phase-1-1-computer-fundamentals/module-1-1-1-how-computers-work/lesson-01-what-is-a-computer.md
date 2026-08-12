@@ -1,5 +1,5 @@
 # الدرس الأول: ما هو الحاسوب وكيف يعمل فعلاً؟
-
+![Hardware vs Software](./assets/lesson-01-hardware-vs-software.png)
 ## مصطلحات مهم تعارفها قبل ما نبدأ
 
 | المصطلح | المعنى |
